@@ -1,0 +1,10 @@
+.first{
+    position: relative;
+    background-image: url(img/bar.gif);
+}
+.navbar{
+    position: absolute;
+    width: 85%;
+    margin: auto;
+    top: 14px;
+}
