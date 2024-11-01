@@ -18,3 +18,31 @@
 .icon{
     display: flex;
 }
+.background{
+    background-color: #191919;
+}
+.ca2{
+    position: relative;
+    top: 20px;
+}
+.caimg{
+    width: 123;
+    height: 160;
+}
+.c2{
+    display: flex;
+    justify-content: space-between;
+}
+.f1{
+    display:grid;
+    grid-template-columns: auto auto;
+    width: 90%;
+    margin: auto;
+    
+}
+.f1 img{
+    width: 665;
+    height: 145;
+    border-radius: 2%;
+}
+
