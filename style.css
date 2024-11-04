@@ -23,7 +23,7 @@
 }
 .ca2{
     position: relative;
-    top: 20px;
+    top: 5vh;
 }
 .caimg{
     width: 123;
@@ -34,15 +34,70 @@
     justify-content: space-between;
 }
 .f1{
-    display:grid;
-    grid-template-columns: auto auto;
-    width: 90%;
+    display: flex;
+    width: 85%;
     margin: auto;
-    
+    margin-top: 8vh;
+    gap: 15px;
 }
 .f1 img{
-    width: 665;
-    height: 145;
-    border-radius: 2%;
+    border-radius: 10px;
+}
+.bank{
+    width: 85%;
+    margin: auto;
+    margin-top: 8vh;
+}
+.bank h2{
+    color: white;
+    font-weight: 500;
+    font-size: 29px;
+}
+.bank img{
+    width: 1347;
+    height: 87;
+    border-radius: 10px;
+}
+.what{
+    width: 85%;
+    margin: auto;
+    margin-top: 8vh;
 }
 
+.what h2{
+    color: white;
+    font-weight: 500;
+    font: 29px;
+}
+.g2{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 85%;
+    margin: auto;
+}
+.g2 img{
+    border-radius: 10px;
+}
+.g3{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 85%;
+    margin: auto;
+    gap: 12px;
+}
+.g3 img{
+    border-radius: 10px;
+}
+.sam{
+    width: 85%;
+    margin: auto;
+    margin-top: 3vh;
+}
+.sam img{
+    border-radius: 10px;
+}
+.single{
+    width: 85%;
+    margin: auto;
+    margin-top: 3vh;
+}
