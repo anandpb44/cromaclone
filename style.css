@@ -101,3 +101,47 @@
     margin: auto;
     margin-top: 3vh;
 }
+.er{
+    width: 85%;
+    margin: auto;
+}
+.er img{
+    border-radius: 10px;
+}
+.foru{
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin: auto;
+}
+.gg{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 85%;
+    margin: auto;
+    gap: 12px;
+    margin-top: 4vh;
+}
+.gg img{
+    border-radius: 10px;
+}
+.why{
+    width: 85%;
+    margin: auto;
+
+}
+.why img{
+    border-radius: 10px;
+}
+.cromac{
+    margin-top: 4vh;
+}
+.cflex{
+    display: flex;
+    width: 85%;
+    margin: auto;
+    justify-content: space-between;
+}
+.fm{
+    border-radius: 10px;
+}
