@@ -145,3 +145,38 @@
 .fm{
     border-radius: 10px;
 }
+.footer{
+    margin-top: 9vh;
+
+}
+.w{
+    width: 88%;
+    margin: auto;
+    height: 550;
+    
+}
+.w ul{
+    display: flex;
+    justify-content: space-between;
+}
+.cn{
+    color: white;
+}
+.ser{
+    position: relative;
+    width: 337px;
+    height: 60px;
+    border-radius: 8px;
+}
+.arrow{
+    position: absolute;
+    left: 26vw;
+    margin-top: 2vh;
+}
+.ico{
+    margin-top: 4vh;
+}
+.spa{
+    margin-top:9vh ;
+    width: 300;
+}
