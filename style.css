@@ -159,6 +159,9 @@
     display: flex;
     justify-content: space-between;
 }
+.w p{
+    font-weight: 500;
+}
 .cn{
     color: white;
 }
@@ -183,4 +186,10 @@
 .w ul li{
     list-style: none;
     color: white;
+}
+.pp{
+    display: flex;
+}
+.vv{
+    width: 100;
 }
